@@ -1,4 +1,4 @@
-== Welcome to Rails
+
 
 # Ruby on Rails Tutorial: first application
 
